@@ -1,2 +1,2 @@
 # sitesample1
-Just a simple test Website
+Just a simple test Webpage
